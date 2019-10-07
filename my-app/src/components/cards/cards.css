@@ -1,0 +1,82 @@
+.card{
+    height: 200px;
+    width: 200px;
+
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#pikachu{
+    background-image: url("https://pokemonletsgo.pokemon.com/assets/img/common/char-pikachu.png");
+    
+   
+}
+
+#squirtle{
+    background-image: url("https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png");
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#charmander{
+    background-image: url("https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png");
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#jigglypuff{
+    background-image: url("https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png");
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#dito{
+    background-image: url("https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png");
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#magikarp{
+    background-image: url("https://static.pokemonpets.com/images/monsters-images-800-800/129-Magikarp.png");
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#digglet{
+    background-image: url("https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png");
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#gastly{
+    background-image: url("https://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png");
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#haunter{
+    background-image: url("https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png");
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+

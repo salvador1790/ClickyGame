@@ -1,0 +1,27 @@
+ .navbar-light .navbar-brand{
+  color: white;
+}
+.bg-light{
+  background-color: blueviolet!important;
+}
+
+#Instructions{
+color: white;
+font-weight: bold;
+}
+
+#scoreKeeper{
+  color: white;
+}
+
+#header{
+  text-align: center;
+  color: white;
+  background-image: url("./circle-blues.png");
+  height: 300px;
+  font-size: 30px;
+}
+
+#headerText{
+  padding-top: 60px;
+}
